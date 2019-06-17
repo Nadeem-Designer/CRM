@@ -1,0 +1,53 @@
+.main{
+    padding:5px;
+    margin:10px;
+}
+.head{
+    margin:50px;
+    padding-left:5px;
+    color:fff;
+}
+h1{
+    font-size:30px;
+    font-weight:bold;
+    color:#333;
+}
+
+p{
+    padding:10px;
+}
+
+.head{
+    position:fixed;
+    Padding:40px;
+    Margin:0 auto;
+}
+.container{
+    background:#000;
+    Margin:20px;
+    padding:40px;
+    
+}
+#Text-area{
+    font-size:12px;
+    font-color:#111;
+    line-height:20px;
+}
+
+ul, li{
+    margin:0px;
+    padding:0px;
+}
+
+span{
+    display:block;
+}
+
+div{
+    margin:4px;
+    padding:10px;
+    font-size:16px;
+    line-height:20px
+}
+
+
